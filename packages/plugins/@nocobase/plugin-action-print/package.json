@@ -3,7 +3,7 @@
   "version": "1.8.27",
   "main": "dist/server/index.js",
   "homepage": "https://docs.nocobase.com/handbook/action-print",
-  "homepage.ru-RU": "https://docs.nocobase.ru/handbook/action-print",
+  "homepage.ru-RU": "https://docs-ru.nocobase.com/handbook/action-print",
   "homepage.zh-CN": "https://docs-cn.nocobase.com/handbook/action-print",
   "displayName": "Action: Print",
   "displayName.ru-RU": "Действие: Печать",
