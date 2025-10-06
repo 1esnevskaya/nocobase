@@ -10,7 +10,7 @@
   "license": "AGPL-3.0",
   "main": "./dist/server/index.js",
   "homepage": "https://docs.nocobase.com/handbook/action-import",
-  "homepage.ru-RU": "https://docs.nocobase.ru/handbook/action-import",
+  "homepage.ru-RU": "https://docs-ru.nocobase.com/handbook/action-import",
   "homepage.zh-CN": "https://docs-cn.nocobase.com/handbook/action-import",
   "devDependencies": {
     "@ant-design/icons": "5.x",
