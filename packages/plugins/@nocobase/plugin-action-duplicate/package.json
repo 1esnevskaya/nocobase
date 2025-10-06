@@ -3,7 +3,7 @@
   "version": "1.8.27",
   "main": "dist/server/index.js",
   "homepage": "https://docs.nocobase.com/handbook/action-duplicate",
-  "homepage.ru-RU": "https://docs.nocobase.ru/handbook/action-duplicate",
+  "homepage.ru-RU": "https://docs-ru.nocobase.com/handbook/action-duplicate",
   "homepage.zh-CN": "https://docs-cn.nocobase.com/handbook/action-duplicate",
   "displayName": "Action: Duplicate record",
   "displayName.ru-RU": "Действие: Дублирование записи",
