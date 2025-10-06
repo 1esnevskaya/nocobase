@@ -5,7 +5,7 @@
   "displayName.zh-CN": "多应用数据表共享",
   "description": "Enable sharing of collections across multiple apps in a multi-app environment.",
   "description.ru-RU": "Обеспечивает совместное использование коллекций между несколькими приложениями.",
-  "description.zh-CN": "",
+  "description.zh-CN": "在多应用环境中启用集合的跨应用共享。",
   "version": "1.8.27",
   "main": "./dist/server/index.js",
   "devDependencies": {
