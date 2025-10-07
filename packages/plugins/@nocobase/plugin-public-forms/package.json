@@ -5,7 +5,7 @@
   "displayName.ru-RU": "Публичные формы",
   "displayName.zh-CN": "公开表单",
   "description": "Share public forms externally to collect information from anonymous users.",
-  "description.ru-RU": "Позволяет распространять публичные формы для сбора информации от анонимных пользователей.",
+  "description.ru-RU": "Позволяет распространять публичные формы для сбора информации от пользователей.",
   "description.zh-CN": "对外分享公开表单，向匿名用户收集信息。",
   "homepage": "https://docs.nocobase.com/handbook/public-form",
   "homepage.ru-RU": "https://docs-ru.nocobase.com/handbook/public-form",
